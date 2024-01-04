@@ -16,9 +16,9 @@ git clone (https://github.com/Kelly985/python-CLI-loan-app.git)
 Navigate to the project directory:
 
 cd python-CLI-loan-app
-Run the application:
 
-python loan_application.py
+Run the application:
+python main.py
 
 Usage
 Launch the application using the installation instructions above.
