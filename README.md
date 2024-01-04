@@ -8,14 +8,14 @@ View a summary of loan details, including principal, interest, and total repayme
 User-friendly command-line interface for easy interaction.
 
 Requirements
-Python 3.x
+Python 3
 Installation
 Clone this repository:
 
-git clone https://github.com/your-username/loan-application.git
+git clone (https://github.com/Kelly985/python-CLI-loan-app.git)
 Navigate to the project directory:
 
-cd loan-application
+cd python-CLI-loan-app
 Run the application:
 
 python loan_application.py
